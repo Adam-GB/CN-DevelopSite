@@ -1,0 +1,7 @@
+#main {
+    text-align: center;
+}
+
+p {
+    font-size: calc(1vw + .5rem);
+}
